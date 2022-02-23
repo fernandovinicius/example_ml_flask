@@ -45,9 +45,9 @@ pass: doe
 - Formato: 
     ```json
     {
-        "tamanho": <float>,
-        "ano": <int>,
-        "garagem": <int>
+        "tamanho": 150.0,
+        "ano": 2003,
+        "garagem": 2
     }
     ```
 
